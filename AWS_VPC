@@ -1,0 +1,1 @@
+VPC cannot span multiple regions and subnets cannot span multiple availablity zones.
