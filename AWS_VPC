@@ -1,1 +1,3 @@
 VPC cannot span multiple regions and subnets cannot span multiple availablity zones.
+
+5 VPC's per region per account by default, can be increased.
